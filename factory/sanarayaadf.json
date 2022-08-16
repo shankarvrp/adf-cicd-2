@@ -1,0 +1,9 @@
+{
+	"name": "sanarayaadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "498e5b4b-5b5e-4e12-8bfe-c64b26044f3b",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
